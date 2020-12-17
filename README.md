@@ -39,7 +39,7 @@ It calls like this:
         }
     }
 
-![alt text](https://github.com/[UzumakiAlfredo]/[flexidget]/preview.jpg?raw=true)
+![alt text](https://github.com/UzumakiAlfredo/flexidget/blob/main/preview.png?raw=true)
 
 
 
