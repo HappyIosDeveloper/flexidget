@@ -1,4 +1,4 @@
-# flexidget
+# Flexidget
 Flexible iOS Widget Preview
 
 With this simple SwiftUI extension you can preview your widget on largets & smallest iOS device in the cleanest & fastest way.
